@@ -4,9 +4,9 @@ Developer comms intelligence. Monitors the platforms where developer sentiment a
 
 **Classification accuracy:** 100% across 60+ mentions from HN, Reddit, and 32 RSS feeds. **Cost:** ~$40/month.
 
-🔗 [Live dashboard](https://dailypulse-one.vercel.app/dashboard/brief)<br>
-🎥 [Demo](https://www.loom.com/share/3f3004ee19aa425fb030b72a5f46008d)<br>
-📝 [Design rationale & feature walkthrough (Notion)](https://www.notion.so/Pulse-32a152e1dde280f58a08ec68daf36d12?source=copy_link)
+> 🔗 [Live dashboard](https://dailypulse-one.vercel.app/dashboard/brief)
+> 🎥 [Demo](https://www.loom.com/share/3f3004ee19aa425fb030b72a5f46008d)
+> 📝 [Design rationale & feature walkthrough (Notion)](https://www.notion.so/Pulse-32a152e1dde280f58a08ec68daf36d12?source=copy_link)
 ---
 
 ## Pulse in Action
