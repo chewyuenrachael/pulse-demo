@@ -12,19 +12,19 @@ Developer comms intelligence. Monitors the platforms where developer sentiment a
 ## Pulse in Action
 
 #### Morning brief — three-section digest with fires, moments, and signals
-![Brief](docs/screenshots/brief.png)
+![Brief](screenshots/brief.png)
 
 
 #### Feed — real-time mentions with urgency classification, bookmarks, and triage filters
-![Feed](docs/screenshots/feed.png)
+![Feed](screenshots/feed.png)
 
 
 #### Tensions — hope × concern scatter plot with click-to-detail panel
-![Tensions](docs/screenshots/tensions.png)
+![Tensions](screenshots/tensions.png)
 
 
 #### Spokesperson prep — AI-generated briefing documents from accumulated intelligence
-![Prep](docs/screenshots/prep.png)
+![Prep](screenshots/prep.png)
 
 ---
 
